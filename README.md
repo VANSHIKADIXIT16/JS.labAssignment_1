@@ -1,4 +1,4 @@
-# JS.labAssignment_1
+# Capstone_Assignment
 # Assignment: Capstone Student Management System
 
 **Name:** Vanshika Dixit  
