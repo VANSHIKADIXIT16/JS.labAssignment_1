@@ -1,0 +1,2 @@
+101,Alisha,alisha@mail.com,B.Tech,86.9
+102,Rohan,rohan@mail.com,M.Tech,92.2
